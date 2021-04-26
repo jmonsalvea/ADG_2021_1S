@@ -1,4 +1,4 @@
-CHANNEL_ID,CHANNEL_NAME,CHANNEL_TYPE
+IdChannel,Channel_Name,Type
 152.0,Personal Selling,PHYSICAL
 26.0,Sales Outsourcing,VIRTUAL
 124.0,Retail,VIRTUAL
