@@ -1,0 +1,23 @@
+CHANNEL_ID,CHANNEL_NAME,CHANNEL_TYPE
+152.0,Personal Selling,PHYSICAL
+26.0,Sales Outsourcing,VIRTUAL
+124.0,Retail,VIRTUAL
+160.0,Automated Retail,VIRTUAL
+156.0,Ecommerce,VIRTUAL
+122.0,Resellers,VIRTUAL
+157.0,Agents,PHYSICAL
+154.0,Mail,VIRTUAL
+151.0,Phone,VIRTUAL
+163.0,Door-to-Door Sales,PHYSICAL
+13.0,Instagram,VIRTUAL
+25.0,facebook,VIRTUAL
+7.0,whatsapp,VIRTUAL
+8.0,recomendation,VIRTUAL
+30.0,sms,VIRTUAL
+55.0,Call,VIRTUAL
+155.0,Telegram,VIRTUAL
+11.0,Google meet,VIRTUAL
+1.0,Teams,VIRTUAL
+52.0,Twiter,VIRTUAL
+125.0,Skype,VIRTUAL
+1000.0,others,OTHERS
